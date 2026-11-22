@@ -1,0 +1,6 @@
+{
+  "name": "Decision Tree Intelligence",
+  "description": "Plataforma ejecutiva de Inteligencia de Decisiones basada en Árboles de Decisión para análisis predictivo, interpretación empresarial y estrategia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
